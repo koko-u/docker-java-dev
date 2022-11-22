@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+		"editor.cursorStyle": "block",
+		"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+		"editor.defaultFormatter": "redhat.java",
+		"editor.foldingImportsByDefault": true,
+		"editor.smoothScrolling": true,
+		"editor.tabCompletion": "on",
+		"editor.cursorBlinking": "smooth",
+		"editor.cursorSmoothCaretAnimation": true,
+		"editor.fontLigatures": true,
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.minimap.enabled": false,
+		"files.autoGuessEncoding": true,
+		"files.simpleDialog.enable": true,
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+		"window.autoDetectColorScheme": false,
+		"explorer.fileNesting.enabled": true,
+		"gradle.allowParallelRun": true,
+		"java.codeGeneration.generateComments": true,
+		"java.codeGeneration.hashCodeEquals.useInstanceof": true,
+		"java.codeGeneration.hashCodeEquals.useJava7Objects": true,
+		"java.codeGeneration.toString.codeStyle": "STRING_FORMAT",
+		"java.codeGeneration.useBlocks": true,
+		"java.completion.guessMethodArguments": true,
+		"java.saveActions.organizeImports": true,
+		"java.signatureHelp.description.enabled": true,
+		"java.signatureHelp.enabled": true,
+		"java.typeHierarchy.lazyLoad": true
+	},
+	"extensions": {
+		"recommendations": [
+			"shengchen.vscode-checkstyle",
+			"vscjava.vscode-java-debug",
+			"lfs.vscode-emacs-friendly",
+			"vscjava.vscode-gradle",
+			"naco-siren.gradle-language",
+			"visualstudioexptteam.vscodeintellicode",
+			"ms-ceintl.vscode-language-pack-ja",
+			"sohibe.java-generate-setters-getters",
+			"redhat.java",
+			"vscjava.vscode-java-dependency",
+			"vscjava.vscode-java-test"
+		]
+	}
+}
